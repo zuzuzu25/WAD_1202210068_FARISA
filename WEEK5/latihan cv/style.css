@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(252, 235, 229);
+}
+h1 {
+    text-align: center;
+    color:black;
+    text-indent: 20px;
+    margin-bottom: 20px; 
+}
+h3 {
+    text-align: center;
+    color:black;
+    text-indent: 10px;
+    margin-bottom: 10px; 
+}
+h4 {
+    text-align: center;
+    color: black;
+    text-indent: 7px;
+    margin-bottom: 20px; 
+  }
+h5 {
+    text-align: center;
+    color:black;
+    margin-bottom: 30px; 
+}
+p {
+    text-align: center;
+    color:black;
+    letter-spacing: normal;
+}
